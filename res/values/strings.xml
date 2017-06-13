@@ -1,0 +1,7 @@
+<resources>
+
+   <string name="app_name" translatable="false">XposedMTCPcRadio</string>
+   <string name="app_version_name" translatable="false">1.2</string>
+   <string name="app_description">send song information to MTCScreenClock</string>
+
+</resources>
